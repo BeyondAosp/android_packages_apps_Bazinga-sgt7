@@ -1,7 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="modem_switcher_entries">
         <item>Auto</item>
-        <item>2G only</item>
+        <item>Phone / 2G</item>
         <item>3G only</item>
     </string-array>
 
