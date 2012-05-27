@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="modem_switcher_entries">
+        <item>Auto</item>
+        <item>2G only</item>
+        <item>3G only</item>
+    </string-array>
+
+    <string-array name="modem_switcher_entries_values" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

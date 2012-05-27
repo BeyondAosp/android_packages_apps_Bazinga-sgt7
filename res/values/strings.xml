@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Application: Name -->
+    <string name="application_name">Bazinga</string>
+
+    <!-- Modem Switcher -->
+    <string name="category_modem_switcher_title">Modem</string>
+    <string name="modem_switcher_title">Modem Switcher</string>
+    <string name="modem_switcher_summary">Switch between 2G and 3G modems (US tabs)</string>
+
+</resources>

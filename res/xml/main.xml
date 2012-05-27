@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/category_modem_switcher_title"
+        android:key="modem_category">
+            <!-- Modem Switcher -->
+            <ListPreference
+                android:key="modem_switcher"
+                android:title="@string/modem_switcher_title"
+                android:summary="@string/modem_switcher_summary"
+                android:entries="@array/modem_switcher_entries"
+                android:entryValues="@array/modem_switcher_entries_values"
+                android:defaultValue="1" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
