@@ -4,7 +4,7 @@
 
    <application android:label="@string/application_name"
                 android:icon="@drawable/ic_launcher_bazinga">
-        <activity android:name="MainActivity">
+        <activity android:name="Zing">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.DEFAULT" />
